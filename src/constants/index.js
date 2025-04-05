@@ -56,7 +56,7 @@ export const PROJECTS = [
     description:
       "Un site web portfolio personnel présentant des projets, des compétences et des informations de contact.",
     technologies: ["HTML", "CSS", "React", "taillwincss"],
-    liveLink: "URL_DU_PROJET_EN_LIGNE_1",
+    liveLink: "https://portofolio-drab-psi.vercel.app/",
   },
   {
     title: "Recherche d appartement a louer",
