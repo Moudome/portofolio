@@ -21,7 +21,7 @@ Responsive sur tout les ecrans.`,
   {
     year: " 02/11/2024 - 07/10/2024",
     role: "MON PORTOFOLIO",
-    company: "Adobe",
+    company: "",
     description: `Mon protofolio qui regroupe, mes traveaux personnel ,mes contacts,les technolgies que j'utilisent,mes experiences`,
     technologies: ["HTML", "CSS", "React-js", "tailwindcss"],
   },
